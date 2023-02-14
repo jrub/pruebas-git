@@ -1,1 +1,1 @@
-This is a README for a Git learning project
+This README is for a Git learning project
